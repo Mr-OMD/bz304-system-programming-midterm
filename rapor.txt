@@ -1,0 +1,6 @@
+Matematik harf notunuz:	 CC 
+Fizik harf notunuz:	 CC 
+Algoritma harf notunuz:	 BA 
+
+
+GANO:  2.69
